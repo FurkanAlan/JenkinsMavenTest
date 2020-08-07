@@ -5,7 +5,7 @@ public class HelloJenkins {
         System.out.println("Hello Jenkins");
         System.out.println("Second Test");
                 System.out.println("Third Test");
-                        System.out.println("fourth Test");
+                        System.out.println("fourth");
 
     }
 }
