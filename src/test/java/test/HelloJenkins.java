@@ -6,7 +6,7 @@ public class HelloJenkins {
         System.out.println("Second");
                 System.out.println("Third");
                         System.out.println("fourth");
-                        System.out.println("New Test");
+                        System.out.println("New Test 8/11/2020");
 
     }
 }
